@@ -1,0 +1,16 @@
+{
+  "short_name": "Sub Planner",
+  "name": "Teacher Substitution Planner",
+  "description": "An intelligent tool to automate the arrangement of substitute teachers for absentees, based on availability and subject expertise.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827"
+}
